@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+ 
 </p>
 
 #### 🗄️ Databases & Cloud Storage
@@ -67,18 +67,7 @@
 
 </div>
 
----
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🛍️ **BlinkIt Full-Stack Clone** | Real-world grocery e-commerce web application with product listings, real-time cart, and secure checkout workflows. | React, Node.js, Express, MongoDB | [Explore Repo ↗](https://github.com/purnimaraj864-star/BlinkIt-Clone-Full-Stack-Ecommerce) |
-| 🏡 **StayNest** | Full-stack vacation accommodation booking portal with responsive search, listing details, and modern UI. | JavaScript, Full Stack, CSS | [Explore Repo ↗](https://github.com/purnimaraj864-star/staynest) |
-| 🏥 **Healthcare Management System** | Patient records and clinic appointment management web application with role-based access. | Web Stack, Database | [Explore Repo ↗](https://github.com/purnimaraj864-star/purnima-raj-healthcare) |
-| ⚡ **Link to QR Generator** | Instant high-contrast QR code generator with redirect preview and download capabilities. | JavaScript, Canvas, CSS | [Explore Repo ↗](https://github.com/purnimaraj864-star/link-to-qr) |
-
----
 
 ### 📊 GitHub Stats
 
